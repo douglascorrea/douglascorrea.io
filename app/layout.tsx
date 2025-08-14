@@ -16,6 +16,11 @@ export const metadata: Metadata = {
   title: "Douglas Correa - Software Developer",
   description: "Personal website and blog of Douglas Correa, sharing knowledge and showcasing open-source projects",
   generator: "v0.app",
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/favicon.ico",
+  },
 }
 
 export default function RootLayout({
